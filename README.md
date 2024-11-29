@@ -15,8 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Godjeksatouu&icon=3&color=12)](https://visitcount.itsvg.in)
 
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
